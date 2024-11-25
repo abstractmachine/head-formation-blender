@@ -6,8 +6,11 @@ Une adaptation de l'emission [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (
 ## Quad
 > Quad is a television play by Samuel Beckett, written and first produced and broadcast in 1981. It first appeared in print in 1984 where the work is described as "[a] piece for four players, light and percussion" and has also been called a "ballet for four people." – [Quad (play)](https://en.wikipedia.org/wiki/Quad_(play)), Wikipedia
 
-## Vidéo
-[![Quad I+II](images/quad-screenshot-a.jpg)](https://youtu.be/4ZDRfnICq9M?si=C-gZmVLJnP3xtlsH)
+## Vidéos
+[![Quad I+II](images/quad-screenshot-bw.jpg)](https://youtu.be/4ZDRfnICq9M?si=C-gZmVLJnP3xtlsH)
+[![Quad Samuel Beckett](images/quad-screenshot-c.jpg)](https://youtu.be/LPJBIvv13Bc?si=0LFpZiGgkzCgVaZg)
+[![Huddersfield Contemporary Music Festival](images/quad-huddersfield.jpg)](https://youtu.be/X8PzPGVB6L8?si=tPijG7abwCiFNYWt)
+[![Pan Pan Theatre](images/quad-pan-pan-theatre.jpg)](https://youtu.be/34NNTgvUE7c?si=oPEsxqbY4Q7v45xv)
 
 ## Schéma
 ![](images/quad-labelled.jpg)
