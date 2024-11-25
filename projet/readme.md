@@ -10,7 +10,7 @@ Une adaptation de l'emission [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (
 [![Quad I+II](images/quad-screenshot-a.jpg)](https://youtu.be/4ZDRfnICq9M?si=C-gZmVLJnP3xtlsH)
 
 ## Schéma
-![](images/quad-labelled.jpg | width=100)
+![](images/quad-labelled.jpg)
 
 ## Références
 
