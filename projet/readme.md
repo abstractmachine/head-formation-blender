@@ -2,10 +2,13 @@
 Une adaptation de l'emission [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (play), écrit et réalisé par [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett) en 1981.
 
 ## Adaptation
+Ce projet sera l'adaptation de la pièce pour télévision [Quad](https://en.wikipedia.org/wiki/Quad_(play)), écrit et réalisé par Samuel Beckett pour le Süddeutscher Rundfunk, le 8 octobre 1981. Dans cette production, quatre personnages déambulent silencieusement autour d'un carré, alternant leurs mouvements entre rapprochement au centre et éloignement vers les quatre coins du carré.
 
+Dans cette adaptation, je modéliserai d'abord les quatre personnages de la pièce dans Blender. J'ajouterai ensuite une armature à ces personnages à l'aide de [Rigify](https://docs.blender.org/manual/en/2.81/addons/rigging/rigify.html). Enfin, j'animerai leurs mouvements avec les outils d'animation de Blender.
 
-## Quad
-> Quad is a television play by Samuel Beckett, written and first produced and broadcast in 1981. It first appeared in print in 1984 where the work is described as "[a] piece for four players, light and percussion" and has also been called a "ballet for four people." – [Quad (play)](https://en.wikipedia.org/wiki/Quad_(play)), Wikipedia
+Le résultat de toutes ces étapes sera importé dans [Unity](https://unity.com), où je controllerai le mouvement des personnages via de la programmation en C#, en suivant rigoureusement les diagrammes écrites par Beckett dans la pièce originale.
+
+Le but de ce projet est de mieux maîtriser la passage de la modélisation 3d dans Blender avec un résultat final dans un game engine où les personnages sont controllés en temps réel.
 
 ## Vidéos
 [![Quad I+II](images/quad-screenshot-bw.jpg)](https://youtu.be/4ZDRfnICq9M?si=C-gZmVLJnP3xtlsH)
@@ -13,12 +16,18 @@ Une adaptation de l'emission [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (
 [![Huddersfield Contemporary Music Festival](images/quad-huddersfield.jpg)](https://youtu.be/X8PzPGVB6L8?si=tPijG7abwCiFNYWt)
 [![Pan Pan Theatre](images/quad-pan-pan-theatre.jpg)](https://youtu.be/34NNTgvUE7c?si=oPEsxqbY4Q7v45xv)
 
+## Quad
+> Quad is a television play by Samuel Beckett, written and first produced and broadcast in 1981. It first appeared in print in 1984 where the work is described as "[a] piece for four players, light and percussion" and has also been called a "ballet for four people." – [Quad (play)](https://en.wikipedia.org/wiki/Quad_(play)), Wikipedia
+
+![](images/beckett-on-quad.jpg)
+
 ## Schéma
 ![](images/quad-labelled.jpg)
 
+## Personnage
+
+
 ## Références
-
-
 - [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (play), 1981
 - [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quadrat I + II](https://www.youtube.com/watch?v=4ZDRfnICq9M) (TV), Süddeutscher Rundfunk, 8 October 1981
 - [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quad et autres pièces pour la télévision](http://www.leseditionsdeminuit.fr/livre-Quad_et_autres_pièces_pour_la_télévision-1524-1-1-0-1.html), Les éditions de minuit, 1992
@@ -26,11 +35,14 @@ Une adaptation de l'emission [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (
 - [Quad](https://www.panpantheatre.com/shows/quad), Pan Pan Theatre, 2013
 - [Julien Murphet](https://researchers.adelaide.edu.au/profile/julian.murphet), [Understanding Quad](https://www.manchesterhive.com/display/9781526145840/9781526145840.00017.xml), in [Beckett and Media](https://www.manchesterhive.com/display/9781526145840/9781526145840.xml), 22 mars 2022
 - Adrien Switzer, [Beckett’s Image of Exhaustion: The Late Television Plays](https://www.pismowidok.org/en/archive/2023/37-images-of-exhaustion/becketts-image-of-exhaustion-the-late-television-plays), in [View. Theories and Practice of Visual Culture](https://www.pismowidok.org/en/index)
+- Samuel Beckett, [Filme für den SDR](https://www.suhrkamp.de/dvd/he-joe-quadrat-i-und-ii-nacht-und-traeume-schatten-geistertrio-t-9783518135037) (DVD), Suhrkamp Verlag, [978-3-518-13503-7](https://www.suhrkamp.de/dvd/he-joe-quadrat-i-und-ii-nacht-und-traeume-schatten-geistertrio-t-9783518135037), 2008
 
 ## Technologies
 - [Blender](https://www.blender.org/download/) 4.2.3
-- [Rigify](https://docs.blender.org/manual/en/2.81/addons/rigging/rigify.html)
+	- [Rigging](https://www.blender.org/features/animation/#rigging) (*armature*)
+	- [Rigify](https://docs.blender.org/manual/en/2.81/addons/rigging/rigify.html)
 - [Unity](https://unity.com) 6
+	- [NavMesh](https://docs.unity3d.com/ScriptReference/AI.NavMesh.html)
 
 ## Tutoriels
 - [Rigify Fundamentals in Blender 4](https://www.youtube.com/playlist?list=PLdcL5aF8ZcJt1GvL-Fcxy-fPgEFG-1fLp)
