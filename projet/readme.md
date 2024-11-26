@@ -33,10 +33,10 @@ Pendant le tournage, une variante — « Quadrat II » — a été improvisé s
 Les personnages portent 
 
 ## Références
-- [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quad](https://rohandrape.net/ut/rttcc-text/Beckett1984d.pdf) (script) 1984
-- [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (play), Wikipedia
-- [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quadrat I + II](https://www.youtube.com/watch?v=4ZDRfnICq9M) (TV), Süddeutscher Rundfunk, 8 October 1981
-- [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quad et autres pièces pour la télévision](http://www.leseditionsdeminuit.fr/livre-Quad_et_autres_pièces_pour_la_télévision-1524-1-1-0-1.html), Les éditions de minuit, 1992
+- Samuel Beckett, [Quad](https://rohandrape.net/ut/rttcc-text/Beckett1984d.pdf) (script) 1984
+- Samuel Beckett, [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (play), Wikipedia
+- Samuel Beckett, [Quadrat I + II](https://www.youtube.com/watch?v=4ZDRfnICq9M) (TV), Süddeutscher Rundfunk, 8 October 1981
+- Samuel Beckett, [Quad et autres pièces pour la télévision](http://www.leseditionsdeminuit.fr/livre-Quad_et_autres_pièces_pour_la_télévision-1524-1-1-0-1.html), Les éditions de minuit, 1992
 - [Beckett, l’épuisé](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie/beckett-l-epuise-9006976), Épisode 4/4 dans la série « Deleuze et la littérature », [Les chemins de la philosophie](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie), 8 décembre 2018
 - [Quad](https://www.panpantheatre.com/shows/quad), Pan Pan Theatre, 2013
 - [Julien Murphet](https://researchers.adelaide.edu.au/profile/julian.murphet), [Understanding Quad](https://www.manchesterhive.com/display/9781526145840/9781526145840.00017.xml), in [Beckett and Media](https://www.manchesterhive.com/display/9781526145840/9781526145840.xml), 22 mars 2022
