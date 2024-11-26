@@ -33,4 +33,5 @@ Une adaptation de l'emission [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (
 - [Unity](https://unity.com) 6
 
 ## Tutoriels
+- [Rigify Fundamentals in Blender 4](https://www.youtube.com/playlist?list=PLdcL5aF8ZcJt1GvL-Fcxy-fPgEFG-1fLp)
 - [Polyfjord](https://www.youtube.com/@Polyfjord), [My New Rigging Workflow in Blender](https://www.youtube.com/watch?v=BiPoPMnU2VI&list=PL2DcM9Gsef16GjHLpFtYS1A0iBlsCoq6G&index=10), 12 décembre, 2022
