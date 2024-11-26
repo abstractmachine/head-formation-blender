@@ -1,8 +1,10 @@
 # Quad
+
+## Projet
 Une adaptation de l'emission [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (play), écrit et réalisé par [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett) en 1981.
 
 ## Adaptation
-Ce projet sera l'adaptation de la pièce pour télévision [Quad](https://en.wikipedia.org/wiki/Quad_(play)), écrit et réalisé par Samuel Beckett pour le Süddeutscher Rundfunk, le 8 octobre 1981. Dans cette production, quatre personnages déambulent silencieusement autour d'un carré, alternant leurs mouvements entre rapprochement au centre et éloignement vers les quatre coins du carré.
+Ce projet sera l'adaptation de la pièce pour télévision [Quad](https://en.wikipedia.org/wiki/Quad_(play)), écrit et réalisé par Samuel Beckett pour le Süddeutscher Rundfunk, le 8 octobre 1981. Dans cette réalisation, quatre personnages de quatre couleurs différentes déambulent autour d'un carré, alternant leurs mouvements entre rapprochement au centre et éloignement vers les quatre coins du carré. Une musique rythmée accompagne la déambulation.
 
 Dans cette adaptation, je modéliserai d'abord les quatre personnages de la pièce dans Blender. J'ajouterai ensuite une armature à ces personnages à l'aide de [Rigify](https://docs.blender.org/manual/en/2.81/addons/rigging/rigify.html). Enfin, j'animerai leurs mouvements avec les outils d'animation de Blender.
 
@@ -21,14 +23,18 @@ Le but de ce projet est de mieux maîtriser la passage de la modélisation 3d da
 
 ![](images/beckett-on-quad.jpg)
 
+## I & II
+Pendant le tournage, une variante — « Quadrat II » — a été improvisé sur le plateau par Beckett lorsqu'il a vu un moniteur de contrôle qui permettait d'étalonner les caméras avec une image en noir et blanc. Dans cette variante, la musique et les couleurs ont disparu et les personnages traînent les pieds laborieusement. Beckette a déclaré : « Between the two parts there is an intermission of 100'000 years ».
+
 ## Schéma
 ![](images/quad-labelled.jpg)
 
 ## Personnage
-
+Les personnages portent 
 
 ## Références
-- [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (play), 1981
+- [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quad](https://rohandrape.net/ut/rttcc-text/Beckett1984d.pdf) (script) 1984
+- [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (play), Wikipedia
 - [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quadrat I + II](https://www.youtube.com/watch?v=4ZDRfnICq9M) (TV), Süddeutscher Rundfunk, 8 October 1981
 - [Samuel Beckett](https://fr.wikipedia.org/wiki/Samuel_Beckett), [Quad et autres pièces pour la télévision](http://www.leseditionsdeminuit.fr/livre-Quad_et_autres_pièces_pour_la_télévision-1524-1-1-0-1.html), Les éditions de minuit, 1992
 - [Beckett, l’épuisé](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie/beckett-l-epuise-9006976), Épisode 4/4 dans la série « Deleuze et la littérature », [Les chemins de la philosophie](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie), 8 décembre 2018
