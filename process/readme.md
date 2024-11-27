@@ -1,2 +1,2 @@
 # Process
-This process folder is a place for dates notes and work-in-progress reports.
+This process folder is a place for dated notes and work-in-progress reports.
