@@ -27,10 +27,10 @@ Le but de ce projet est de mieux maîtriser la passage de la modélisation 3d da
 Pendant le tournage, une variante — « Quadrat II » — a été improvisé sur le plateau par Beckett lorsqu'il a vu un moniteur de contrôle qui permettait d'étalonner les caméras avec une image en noir et blanc. Dans cette variante, la musique et les couleurs ont disparu et les personnages traînent les pieds laborieusement. Beckette a déclaré : « Between the two parts there is an intermission of 100'000 years ».
 
 ## Schéma
-![](images/quad-labelled.jpg) ![](images/quad-diagram.jpg)
+![](images/quad-diagram.jpg) ![](images/quad-labelled.jpg)
 
 ## Personnage
-Les personnages portent 
+Les personnages portent des robes avec des capuches; ces deux parties ont la même couleur : blanc, rouge, bleu, ou jaune — selon le personnage. Dans le scénario original, il est indiqué qu'une lumière de la même couleur suit le personnage. Ceci était irréalisable en 1981, mais plutôt facile dans un moteur de jeu.
 
 ## Références
 - Samuel Beckett, [Quad](https://rohandrape.net/ut/rttcc-text/Beckett1984d.pdf) (script) 1984
