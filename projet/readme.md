@@ -51,6 +51,7 @@ Les personnages portent des robes avec des capuches; ces deux parties ont la mê
 	- [Rigify](https://docs.blender.org/manual/en/2.81/addons/rigging/rigify.html)
 - [Unity](https://unity.com) 6
 	- [NavMesh](https://docs.unity3d.com/ScriptReference/AI.NavMesh.html)
+	- [Unity Audio Sequencer](https://github.com/Ludomancer/Unity-Audio-Sequencer) ou [FMOD](https://www.fmod.com/unity)
 
 ## Tutoriels
 - [Rigify Fundamentals in Blender 4](https://www.youtube.com/playlist?list=PLdcL5aF8ZcJt1GvL-Fcxy-fPgEFG-1fLp)
