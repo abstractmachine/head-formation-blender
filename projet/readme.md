@@ -35,7 +35,7 @@ Pendant le tournage, une variante — « Quadrat II » — a été improvisé s
 Les personnages portent des robes avec des capuches; ces deux parties ont la même couleur : blanc, rouge, bleu, ou jaune — selon le personnage. Dans le scénario original, il est indiqué qu'une lumière de la même couleur suit le personnage. Ceci était irréalisable en 1981, mais plutôt facile dans un moteur de jeu.
 
 ## Références
-- Samuel Beckett, [Quad](https://rohandrape.net/ut/rttcc-text/Beckett1984d.pdf) (script) 1984
+- Samuel Beckett, [Quad](https://rohandrape.net/ut/rttcc-text/Beckett1984d.pdf) (script), 1984
 - Samuel Beckett, [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (play), Wikipedia
 - Samuel Beckett, [Quadrat I + II](https://www.youtube.com/watch?v=4ZDRfnICq9M) (TV), Süddeutscher Rundfunk, 8 October 1981
 - Samuel Beckett, [Quad et autres pièces pour la télévision](http://www.leseditionsdeminuit.fr/livre-Quad_et_autres_pièces_pour_la_télévision-1524-1-1-0-1.html), Les éditions de minuit, 1992
