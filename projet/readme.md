@@ -49,6 +49,7 @@ Les personnages portent des robes avec des capuches; ces deux parties ont la mê
 - [Blender](https://www.blender.org/download/) 4.2.3
 	- [Rigging](https://www.blender.org/features/animation/#rigging) (*armature*)
 	- [Rigify](https://docs.blender.org/manual/en/2.81/addons/rigging/rigify.html)
+	- [Mixamo](https://www.mixamo.com/)
 - [Unity](https://unity.com) 6
 	- [NavMesh](https://docs.unity3d.com/ScriptReference/AI.NavMesh.html)
 	- [Unity Audio Sequencer](https://github.com/Ludomancer/Unity-Audio-Sequencer) ou [FMOD](https://www.fmod.com/unity)
