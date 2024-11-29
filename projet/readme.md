@@ -34,6 +34,20 @@ Pendant le tournage, une variante — « Quadrat II » — a été improvisé s
 ## Personnage
 Les personnages portent des robes avec des capuches; ces deux parties ont la même couleur : blanc, rouge, bleu, ou jaune — selon le personnage. Dans le scénario original, il est indiqué qu'une lumière de la même couleur suit le personnage. Ceci était irréalisable en 1981, mais plutôt facile dans un moteur de jeu.
 
+## Workflow
+1. ~~Modélisation~~ Importation d'un personnage quelconque dans Blender (cette personne sera couverte par une robe + capuche)
+2. Rigging (armature standard ou [Rigify](https://docs.blender.org/manual/en/2.81/addons/rigging/rigify.html))
+	- *Attention à créer une armature (a) compatible avec Mixamo et (b) exportable vers le système [Mecanim](https://docs.unity3d.com/Manual/AnimationOverview.html) d'Unity
+3. Création d'une robe autour du corps du personnage (cf. [2024-11-29](../process/2024-11-29.md))
+	- Utiliser de la physique pour la forme/couture
+	- Bonus si la robe peut bouger dans Unity, ce serait cool. Cf. le composant [Cloth](https://docs.unity3d.com/Manual/class-Cloth.html) dans Unity. Pour une démo, cf. ce [tutoriel cloth](https://www.youtube.com/watch?v=pZBEiS99VpM))
+4. Importation d'animations [Mixamo](https://www.mixamo.com/) dans Blender
+	- Nettoyage des mouvements
+	- Création d'une bibliothèque de mouvements
+	- *Attention à nommer l'armature dans un format exportable vers Unity*
+5. Exportation du modèle + armature + animations vers Unity
+6. Re-création de la pièce de Beckett dans Unity, en suivant le scénario
+
 ## Références
 - Samuel Beckett, [Quad](https://rohandrape.net/ut/rttcc-text/Beckett1984d.pdf) (script), 1984
 - Samuel Beckett, [Quad](https://en.wikipedia.org/wiki/Quad_(play)) (play), Wikipedia
