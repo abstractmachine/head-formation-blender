@@ -18,3 +18,8 @@ Pour voir les normals (petites lignes bleues), il faut d'abord activer le bouton
 ![](images/mesh-edit-mode-overlays.png)
 
 On peut aussi déterminer la taille de ces lignes.
+
+## Glisser
+Un truc pratique : quand on sélectionne un arrêt, on peut appuyer deux fois sur la touche `G` (pour `Grab`), ce qui le met en mode glisser (`Edge Slide`).
+
+![](images/edge-slide.png)
