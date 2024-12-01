@@ -59,6 +59,7 @@ Les personnages portent des robes avec des capuches; ces deux parties ont la mê
 - [Julien Murphet](https://researchers.adelaide.edu.au/profile/julian.murphet), [Understanding Quad](https://www.manchesterhive.com/display/9781526145840/9781526145840.00017.xml), in [Beckett and Media](https://www.manchesterhive.com/display/9781526145840/9781526145840.xml), 22 mars 2022
 - Adrien Switzer, [Beckett’s Image of Exhaustion: The Late Television Plays](https://www.pismowidok.org/en/archive/2023/37-images-of-exhaustion/becketts-image-of-exhaustion-the-late-television-plays), in [View. Theories and Practice of Visual Culture](https://www.pismowidok.org/en/index)
 - Samuel Beckett, [Filme für den SDR](https://www.suhrkamp.de/dvd/he-joe-quadrat-i-und-ii-nacht-und-traeume-schatten-geistertrio-t-9783518135037) (DVD), Suhrkamp Verlag, [978-3-518-13503-7](https://www.suhrkamp.de/dvd/he-joe-quadrat-i-und-ii-nacht-und-traeume-schatten-geistertrio-t-9783518135037), 2008
+- Laura Salisbury, [Grey Time: Anachromism and Waiting for Beckett](https://edinburghuniversitypress.com/media/resources/9781474478519_Chapter_2.pdf), [9781474478519](https://library.oapen.org/handle/20.500.12657/92130), 2023
 
 ## Technologies
 - [Blender](https://www.blender.org/download/) 4.2.3
