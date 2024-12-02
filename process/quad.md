@@ -13,7 +13,7 @@ Le mot qui semble hanter ce texte — et que Deleuze traite, et écarte, mais a
 Cette question du silence est une manière de traiter l'extrême épuration de Beckett qui n'est pas un minimalisme. Ce n'est pas une tentative de simplifier le sens ou la représentation ; il s'agit d'un projet plutôt de l'exténuer par un mouvement intérieur.
 
 ### Deuxième partie
-La deuxième partie du texte de Deleuze approfonit spécifiquement cette question du silence qui ne peut pas être *atteint* ; seulement un *épuisement* du sens, du bruit, du signal.
+La deuxième partie du texte de Deleuze approfondit spécifiquement cette question du silence qui ne peut jamais être *atteint* ; ou seulement par le détour d'un *épuisement* du sens, du bruit, du signal.
 
 Le projet du texte semble être une sorte de traité sur l'art et ses limites : comment l'œuvre d'un artiste singulier ait pu dépasser d'intérieur ce dilemme de comment une œuvre peut parler d'une entité qui ne prononce pas son nom, d'un bruit qui n'émet pas de son, d'un objet qui produit aucune forme, d'une image qui rayonne aucune lumière ; comment, en « épuisant » de l'intérieur de la représentation les limites de la représentation.
 
