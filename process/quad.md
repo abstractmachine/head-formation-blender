@@ -8,12 +8,12 @@ J'ai lu la première partie de « [L’épuisé](http://www.leseditionsdeminuit
 
 L'argument central tourne autour de l'idée d'une œuvre qui tente d'épuiser par différentes stratégies la langue, la parole, l'image, puis l'espace. Deleuze décrit des personnages qui ne sont pas juste allongé (= *fatigués*) ; iels sont plutôt assis-es mais immobilisé-e-s.
 
-Le mot qui semble hanter ce texte — et que Deleuze traite, et écarte, mais avec peu d'insistance — est la question du silence. C'est même la fin du texte. En gros : comment parler du silence dans un texte, dans une pièce, dans un film, dans une émission télévisuelle. C'est proche, de ce point de vue, du projet de Heidegger : comme parler d'une silence étourdissante.
+Le mot qui semble hanter ce texte — et que Deleuze traite, et écarte, mais avec peu d'insistance — est la question du silence. C'est même la fin du texte. En gros : comment parler du silence dans un texte, dans une pièce, dans un film, dans une émission télévisuelle. C'est proche, de ce point de vue, du projet de Heidegger : *comment parler d'une silence étourdissante ?*
 
-Cette question de silence est une manière de traiter l'extrême épuration de Beckett qui n'est pas un minimalisme. Ce n'est pas une tentative de simplifier le sens ou la représentation ; il s'agit d'un projet plutôt de l'exténuer par un mouvement intérieur.
+Cette question du silence est une manière de traiter l'extrême épuration de Beckett qui n'est pas un minimalisme. Ce n'est pas une tentative de simplifier le sens ou la représentation ; il s'agit d'un projet plutôt de l'exténuer par un mouvement intérieur.
 
 ### Deuxième partie
-La deuxième partie du texte de Deleuze approfonit spécifiquement cette question du silence qui ne peut pas être atteint ; seulement épuisé.
+La deuxième partie du texte de Deleuze approfonit spécifiquement cette question du silence qui ne peut pas être *atteint* ; seulement un *épuisement* du sens, du bruit, du signal.
 
 Le projet du texte semble être une sorte de traité sur l'art et ses limites : comment l'œuvre d'un artiste singulier ait pu dépasser d'intérieur ce dilemme de comment une œuvre peut parler d'une entité qui ne prononce pas son nom, d'un bruit qui n'émet pas de son, d'un objet qui produit aucune forme, d'une image qui rayonne aucune lumière ; comment, en « épuisant » de l'intérieur de la représentation les limites de la représentation.
 
