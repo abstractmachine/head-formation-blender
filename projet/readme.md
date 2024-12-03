@@ -24,7 +24,7 @@ Le but de ce projet est de mieux maîtriser la passage de la modélisation 3d da
 ![](images/beckett-on-quad.jpg)
 
 ## I & II
-Pendant le tournage, une variante — « Quadrat II » — a été improvisé sur le plateau par Beckett lorsqu'il a vu un moniteur de contrôle qui permettait d'étalonner les caméras avec une image en noir et blanc. Dans cette variante, la musique et les couleurs ont disparu et les personnages traînent les pieds laborieusement. Beckette a déclaré : « Between the two parts there is an intermission of 100'000 years ».
+Pendant le tournage, une variante — « Quadrat II » — a été improvisé sur le plateau par Beckett lorsqu'il a vu un moniteur de contrôle qui permettait d'étalonner les caméras avec une image en noir et blanc. Dans cette variante, la musique et les couleurs ont disparu et les personnages traînent les pieds laborieusement. Beckett a déclaré : « Between the two parts there is an intermission of 100'000 years ».
 
 ## Schéma
 ![](images/quad-diagram.jpg)
