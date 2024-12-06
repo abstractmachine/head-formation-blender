@@ -1,5 +1,5 @@
 # Quad
-Notes sur la pièce Quad, des réflexions théoriques, etc.
+Notes théoriques sur la pièce Quad, des réflexions, etc.
 
 ## L'épuisé
 
