@@ -13,7 +13,8 @@ Le résultat de toutes ces étapes sera importé dans [Unity](https://unity.com)
 Le but de ce projet est de mieux maîtriser la passage de la modélisation 3d dans Blender avec un résultat final dans un game engine où les personnages sont controllés en temps réel.
 
 ## Vidéos
-[![Quad I+II](images/quad-screenshot-bw.jpg)](https://youtu.be/4ZDRfnICq9M?si=C-gZmVLJnP3xtlsH)
+[![Quad I](images/quad-I.gif)](https://youtu.be/CLq4vY8v5o4)
+[![Quad II](images/quad-screenshot-bw.jpg)](https://youtu.be/OSOgIB0CzK4)
 [![Quad Samuel Beckett](images/quad-screenshot-c.jpg)](https://youtu.be/LPJBIvv13Bc?si=0LFpZiGgkzCgVaZg)
 [![Huddersfield Contemporary Music Festival](images/quad-huddersfield.jpg)](https://youtu.be/X8PzPGVB6L8?si=tPijG7abwCiFNYWt)
 [![Pan Pan Theatre](images/quad-pan-pan-theatre.jpg)](https://youtu.be/34NNTgvUE7c?si=oPEsxqbY4Q7v45xv)

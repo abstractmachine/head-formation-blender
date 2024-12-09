@@ -1,6 +1,12 @@
 # Quad
 Notes théoriques sur la pièce Quad, des réflexions, etc.
 
+## Videos
+J'ai mis en lecture non-référencé, les deux versions de Quad dans une plus haute résolution que ce qu'on trouve d'habitude en ligne :
+
+[![Quad I](images/quad-I.gif)](https://youtu.be/CLq4vY8v5o4)
+[![Quad II](images/quad-screenshot-bw.jpg)](https://youtu.be/OSOgIB0CzK4)
+
 ## L'épuisé
 
 ### Prémière partie
