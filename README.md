@@ -16,7 +16,7 @@ Un [projet personnel](projet/readme.md) a été créé pendant cette formation.
 [![](./process/images/quad-unity-app-single-loop.gif)](https://youtu.be/uugnyVP2nD0)
 
 ## Process
-On peut suivre mon [processus](process/) de travail, daté, avec mes notes, etc.
+On peut suivre mon [processus](process/readme.md) de travail, daté, avec mes notes, etc.
 
 ## Blender
 Les fichiers de divers tutoriels et travaux sur le projet se trouvent dans le dossier [blender](blender/).
