@@ -1,0 +1,773 @@
+MicrotonicPresetV3: {
+	Tempo: "110.0 bpm"
+	Pattern: "f"
+	StepRate: "1/16"
+	Swing: "0.0%"
+	FillRate: "2.986295975990218x"
+	MastVol: "0.0 dB"
+	Mutes: { "Off", "Off", "Off", "Off", "Off", "Off", "Off", "Off" }
+	DrumPatches: {
+		"1": {
+			Name: "SC Chop Elec L"
+			Modified: true
+			OscWave: "Triangle"
+			OscFreq: "289.8004138907966 Hz"
+			OscAtk: "0.0 ms"
+			OscDcy: "42.73351893705825 ms"
+			ModMode: "Decay"
+			ModRate: "inf ms"
+			ModAmt: "71.00160236206057 sm"
+			NFilMod: "HP"
+			NFilFrq: "1533.2046135988762 Hz"
+			NFilQ: "5.297768379219882"
+			NStereo: "Off"
+			NEnvMod: "Exp"
+			NEnvAtk: "0.0 ms"
+			NEnvDcy: "275.4171232289388 ms"
+			Mix: "100.0 / 0.0"
+			DistAmt: "40.25000035762787"
+			EQFreq: "775.2255799675168 Hz"
+			EQGain: "0.0 dB"
+			Level: "-4.99565734070962 dB"
+			Pan: "0.0"
+			Output: "A"
+			Choke: "Off"
+			OscVel: "50.0%"
+			NVel: "0.0%"
+			ModVel: "100.0%"
+		}
+		"2": {
+			Name: "SC Chop Elec L"
+			Modified: false
+			Path: "/Users/abstractmachine/Library/Mobile Documents/com~apple~CloudDocs/Forms/Blender/head-formation-blender/unity/Quad/Assets/Sounds/Microtonic/SC Chop Elec L.mtdrum"
+			OscWave: "Triangle"
+			OscFreq: "289.8004138907966 Hz"
+			OscAtk: "0.0 ms"
+			OscDcy: "42.73351893705825 ms"
+			ModMode: "Decay"
+			ModRate: "683.9503298299351 ms"
+			ModAmt: "56.918397180175816 sm"
+			NFilMod: "HP"
+			NFilFrq: "1533.2046135988762 Hz"
+			NFilQ: "5.297768379219882"
+			NStereo: "Off"
+			NEnvMod: "Exp"
+			NEnvAtk: "0.0 ms"
+			NEnvDcy: "275.4171232289388 ms"
+			Mix: "100.0 / 0.0"
+			DistAmt: "40.25000035762787"
+			EQFreq: "775.2255799675168 Hz"
+			EQGain: "0.0 dB"
+			Level: "-4.99565734070962 dB"
+			Pan: "0.0"
+			Output: "A"
+			Choke: "Off"
+			OscVel: "50.0%"
+			NVel: "0.0%"
+			ModVel: "100.0%"
+		}
+		"3": {
+			Name: "SC Chop Elec L"
+			Modified: true
+			OscWave: "Triangle"
+			OscFreq: "289.8004138907966 Hz"
+			OscAtk: "0.0 ms"
+			OscDcy: "42.73351893705825 ms"
+			ModMode: "Decay"
+			ModRate: "196.9111168613859 ms"
+			ModAmt: "20.313592840576803 sm"
+			NFilMod: "HP"
+			NFilFrq: "1533.2046135988762 Hz"
+			NFilQ: "5.297768379219882"
+			NStereo: "Off"
+			NEnvMod: "Exp"
+			NEnvAtk: "0.0 ms"
+			NEnvDcy: "275.4171232289388 ms"
+			Mix: "100.0 / 0.0"
+			DistAmt: "40.25000035762787"
+			EQFreq: "775.2255799675168 Hz"
+			EQGain: "0.0 dB"
+			Level: "-4.99565734070962 dB"
+			Pan: "0.0"
+			Output: "A"
+			Choke: "Off"
+			OscVel: "50.0%"
+			NVel: "0.0%"
+			ModVel: "100.0%"
+		}
+		"4": {
+			Name: "SC Chop Elec L"
+			Modified: true
+			OscWave: "Triangle"
+			OscFreq: "289.8004138907966 Hz"
+			OscAtk: "0.0 ms"
+			OscDcy: "42.73351893705825 ms"
+			ModMode: "Decay"
+			ModRate: "196.9111168613859 ms"
+			ModAmt: "0.0 sm"
+			NFilMod: "HP"
+			NFilFrq: "1533.2046135988762 Hz"
+			NFilQ: "5.297768379219882"
+			NStereo: "Off"
+			NEnvMod: "Exp"
+			NEnvAtk: "0.0 ms"
+			NEnvDcy: "275.4171232289388 ms"
+			Mix: "100.0 / 0.0"
+			DistAmt: "40.25000035762787"
+			EQFreq: "775.2255799675168 Hz"
+			EQGain: "0.0 dB"
+			Level: "-4.99565734070962 dB"
+			Pan: "0.0"
+			Output: "A"
+			Choke: "Off"
+			OscVel: "50.0%"
+			NVel: "0.0%"
+			ModVel: "100.0%"
+		}
+		"5": {
+			Name: "SC Chop Elec L"
+			Modified: true
+			OscWave: "Triangle"
+			OscFreq: "289.8004138907966 Hz"
+			OscAtk: "0.0 ms"
+			OscDcy: "89.57715267183332 ms"
+			ModMode: "Decay"
+			ModRate: "343.1854007057893 ms"
+			ModAmt: "-20.313598104858443 sm"
+			NFilMod: "HP"
+			NFilFrq: "1533.2046135988762 Hz"
+			NFilQ: "5.297768379219882"
+			NStereo: "Off"
+			NEnvMod: "Exp"
+			NEnvAtk: "0.0 ms"
+			NEnvDcy: "275.4171232289388 ms"
+			Mix: "100.0 / 0.0"
+			DistAmt: "40.25000035762787"
+			EQFreq: "775.2255799675168 Hz"
+			EQGain: "0.0 dB"
+			Level: "-4.99565734070962 dB"
+			Pan: "0.0"
+			Output: "A"
+			Choke: "Off"
+			OscVel: "50.0%"
+			NVel: "0.0%"
+			ModVel: "100.0%"
+		}
+		"6": {
+			Name: "SC Chop Elec L"
+			Modified: true
+			OscWave: "Triangle"
+			OscFreq: "289.8004138907966 Hz"
+			OscAtk: "0.0 ms"
+			OscDcy: "159.2932171373141 ms"
+			ModMode: "Decay"
+			ModRate: "343.1854007057893 ms"
+			ModAmt: "-36.902397019958556 sm"
+			NFilMod: "HP"
+			NFilFrq: "1533.2046135988762 Hz"
+			NFilQ: "5.297768379219882"
+			NStereo: "Off"
+			NEnvMod: "Exp"
+			NEnvAtk: "0.0 ms"
+			NEnvDcy: "275.4171232289388 ms"
+			Mix: "100.0 / 0.0"
+			DistAmt: "40.25000035762787"
+			EQFreq: "775.2255799675168 Hz"
+			EQGain: "0.0 dB"
+			Level: "-4.99565734070962 dB"
+			Pan: "0.0"
+			Output: "A"
+			Choke: "Off"
+			OscVel: "50.0%"
+			NVel: "0.0%"
+			ModVel: "100.0%"
+		}
+		"7": {
+			Name: "SC Chop Elec L"
+			Modified: true
+			OscWave: "Triangle"
+			OscFreq: "289.8004138907966 Hz"
+			OscAtk: "0.0 ms"
+			OscDcy: "203.86382995384724 ms"
+			ModMode: "Decay"
+			ModRate: "inf ms"
+			ModAmt: "-62.21039649925237 sm"
+			NFilMod: "HP"
+			NFilFrq: "1533.2046135988762 Hz"
+			NFilQ: "5.297768379219882"
+			NStereo: "Off"
+			NEnvMod: "Exp"
+			NEnvAtk: "0.0 ms"
+			NEnvDcy: "275.4171232289388 ms"
+			Mix: "100.0 / 0.0"
+			DistAmt: "40.25000035762787"
+			EQFreq: "775.2255799675168 Hz"
+			EQGain: "0.0 dB"
+			Level: "-4.99565734070962 dB"
+			Pan: "0.0"
+			Output: "A"
+			Choke: "Off"
+			OscVel: "50.0%"
+			NVel: "0.0%"
+			ModVel: "100.0%"
+		}
+		"8": {
+			Name: "SC Chop Elec L"
+			Modified: true
+			OscWave: "Triangle"
+			OscFreq: "289.8004138907966 Hz"
+			OscAtk: "0.0 ms"
+			OscDcy: "569.8608683744616 ms"
+			ModMode: "Decay"
+			ModRate: "inf ms"
+			ModAmt: "-96.0 sm"
+			NFilMod: "HP"
+			NFilFrq: "1533.2046135988762 Hz"
+			NFilQ: "5.297768379219882"
+			NStereo: "Off"
+			NEnvMod: "Exp"
+			NEnvAtk: "0.0 ms"
+			NEnvDcy: "275.4171232289388 ms"
+			Mix: "100.0 / 0.0"
+			DistAmt: "40.25000035762787"
+			EQFreq: "775.2255799675168 Hz"
+			EQGain: "0.0 dB"
+			Level: "-4.99565734070962 dB"
+			Pan: "0.0"
+			Output: "A"
+			Choke: "Off"
+			OscVel: "50.0%"
+			NVel: "0.0%"
+			ModVel: "100.0%"
+		}
+	}
+	Patterns: {
+		a: {
+			Length: 16
+			Chained: true
+			"1": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"2": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"3": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"4": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"5": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"6": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"7": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"8": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+		}
+		b: {
+			Length: 16
+			Chained: true
+			"1": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"2": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"3": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"4": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"5": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"6": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"7": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"8": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+		}
+		c: {
+			Length: 16
+			Chained: true
+			"1": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"2": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"3": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"4": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"5": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"6": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"7": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"8": {
+				Triggers: "#-#-#-#-#-#-###-"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+		}
+		d: {
+			Length: 16
+			Chained: false
+			"1": {
+				Triggers: "#-#-#-#--##-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"2": {
+				Triggers: "#-#-#-#--##-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"3": {
+				Triggers: "#-#-#-#--##-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"4": {
+				Triggers: "#-#-#-#--##-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"5": {
+				Triggers: "#-#-#-#--##-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"6": {
+				Triggers: "#-#-#-#--##-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"7": {
+				Triggers: "#-#-#-#--##-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+			"8": {
+				Triggers: "#-#-#-#--##-###-"
+				Accents:  "################"
+				Fills:    "----------------"
+			}
+		}
+		e: {
+			Length: 16
+			Chained: true
+			"1": {
+				Triggers: "-#--------------"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"2": {
+				Triggers: "---#------------"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"3": {
+				Triggers: "-----#----------"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"4": {
+				Triggers: "-------#--------"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"5": {
+				Triggers: "---------#------"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"6": {
+				Triggers: "-----------#----"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"7": {
+				Triggers: "-------------#--"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+			"8": {
+				Triggers: "---------------#"
+				Accents:  "################"
+				Fills:    "--------------#-"
+			}
+		}
+		f: {
+			Length: 16
+			Chained: false
+			"1": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"2": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"3": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"4": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"5": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"6": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"7": {
+				Triggers: "----#-----------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"8": {
+				Triggers: "--------#-------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+		}
+		g: {
+			Length: 16
+			Chained: true
+			"1": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"2": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"3": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"4": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"5": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"6": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"7": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"8": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+		}
+		h: {
+			Length: 16
+			Chained: false
+			"1": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"2": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"3": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"4": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"5": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"6": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"7": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"8": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+		}
+		i: {
+			Length: 16
+			Chained: false
+			"1": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"2": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"3": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"4": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"5": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"6": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"7": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"8": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+		}
+		j: {
+			Length: 16
+			Chained: false
+			"1": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"2": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"3": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"4": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"5": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"6": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"7": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"8": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+		}
+		k: {
+			Length: 16
+			Chained: false
+			"1": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"2": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"3": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"4": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"5": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"6": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"7": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+			"8": {
+				Triggers: "----------------"
+				Accents:  "----------------"
+				Fills:    "----------------"
+			}
+		}
+		l: {
+			Length: 16
+			"1": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"2": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"3": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"4": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"5": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"6": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"7": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+			"8": {
+				Triggers: "------------####"
+				Accents:  "------------####"
+				Fills:    "----------------"
+			}
+		}
+	}
+}

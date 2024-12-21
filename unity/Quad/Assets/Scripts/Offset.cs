@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class OffsetStart : MonoBehaviour
+public class Offset : MonoBehaviour
 {
 	// collection of all the Animators in the children
 	Animator[] animators;
