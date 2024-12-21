@@ -11,7 +11,9 @@
 Ce dépôt GIT contient les notes et fichiers réalisés pour la formation [Modélisation, animation et rendu 3D. Introduction à Blender](https://www.hesge.ch/head/formations-recherche/modelisation-animation-et-rendu-3d-introduction-blender).
 
 ## Projet
-Un [projet personnel](projet/readme.md) a été initié pour cette formation.
+Un [projet personnel](projet/readme.md) a été créé pendant cette formation.
+
+[![](./process/images/quad-beta-2024-12-21-11-45-00.png)](https://youtu.be/slorKrDAcjQ)
 
 ## Process
 On peut suivre mon [processus](process/) de travail, daté, avec mes notes, etc.
