@@ -13,7 +13,7 @@ Ce dépôt GIT contient les notes et fichiers réalisés pour la formation [Mod�
 ## Projet
 Un [projet personnel](projet/readme.md) a été créé pendant cette formation.
 
-[![](./process/images/quad-beta-2024-12-21-11-45-00.png)](https://youtu.be/slorKrDAcjQ)
+[![](./process/images/quad-unity-app-single-loop.gif)](https://youtu.be/uugnyVP2nD0)
 
 ## Process
 On peut suivre mon [processus](process/) de travail, daté, avec mes notes, etc.
