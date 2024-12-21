@@ -23,11 +23,3 @@ Les fichiers de divers tutoriels et travaux sur le projet se trouvent dans le do
 
 ## Unity
 Le projet Unity se trouve dans le dossier [unity](unity/).
-
-## TODO
-Maintenant il reste à :
-- Créer un `CharacterController` dans `Unity` à base de `Root Motion`
-- Créer un `NavMesh` dans `Unity`
-- Utiliser le `NavMesh` pour reproduire (enfin) les mouvements de la pièce de Beckett
-- Importer un synth dans `Unity`
-- Créer une musique à partir des `Step` du mo-cap
