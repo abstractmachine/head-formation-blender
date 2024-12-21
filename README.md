@@ -18,3 +18,6 @@ On peut suivre mon [processus](process/) de travail, daté, avec mes notes, etc.
 
 ## Blender
 Les fichiers de divers tutoriels et travaux sur le projet se trouvent dans le dossier [blender](blender/).
+
+## Unity
+Le projet Unity se trouve dans le dossier [unity](unity/).
