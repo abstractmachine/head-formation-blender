@@ -12,8 +12,8 @@ Ce dossier est un fourre-tout pour les notes (datées) et des rapports de work-i
 - [tech tips Unity](./unity.md)
 
 ## TODO
-- Créer un `CharacterController` dans `Unity` à base de `Root Motion`
-- Créer un `NavMesh` dans `Unity`
+- ~~Créer un `CharacterController` dans `Unity` à base de `Root Motion`~~
+- ~~Créer un `NavMesh` dans `Unity`~~
 - Utiliser le `NavMesh` pour reproduire (enfin) les mouvements de la pièce de Beckett
 - Importer un synth dans `Unity`
 - Créer une musique à partir des `Step` du mo-cap
